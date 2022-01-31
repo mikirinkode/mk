@@ -1,7 +1,3 @@
-/*
- * https://mikirinkode.online/bubble-sort/
- */
-
 #include <iostream>
 using namespace std;
 void tukar(int *, int *);
