@@ -1,7 +1,3 @@
-/*
- * mikirinkode.online/insertion-sort
- */
-
 #include <iostream>
 using namespace std;
 
